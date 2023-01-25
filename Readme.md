@@ -1,11 +1,15 @@
+Notes on testing Mermaid support GitHub:
+- Supports `.md`, `.mmd` and `.mermaid` files.
+- Supports complete example.
+    - `note for Duck` is not rendered.
+
 Notes on testing Mermaid plugins for VSCode:
 - [Mermaid Markdown Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=bpruitt-goddard.mermaid-markdown-syntax-highlighting)
     - Seems to be working fine. Optional, as it just offers syntax highlightning.
     - Seems to be required by other plugins.
 - [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
     - Works only with `.md` files.
-    - Limited support for the comlete example.
-        - Doesn't crash, which is very good.
+    - Supports for the comlete example.
         - `note for Duck` is not rendered.
 - [Mermaid Editor](https://marketplace.visualstudio.com/items?itemName=tomoyukim.vscode-mermaid-editor)
     - Works only with `.mmd` files.
