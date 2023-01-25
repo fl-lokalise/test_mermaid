@@ -1,4 +1,4 @@
-Notes on testing Mermaid support GitHub:
+Notes on testing Mermaid support in GitHub:
 - Supports `.md`, `.mmd` and `.mermaid` files.
 - Supports complete example.
     - `note for Duck` is not rendered.
