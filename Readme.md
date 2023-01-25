@@ -17,5 +17,5 @@ Notes on testing Mermaid plugins for VSCode:
     - Works with `.md` and `.mmd` files.
     - Works on with simplified examples only.
 - [Preview](https://marketplace.visualstudio.com/items?itemName=searKing.preview-vscode)
-    - Works with `.md` and `.mmd` files.
+    - Works with `.md`, `.mmd` and `.mermaid` files.
     - Works on with simplified examples only.
